@@ -14,7 +14,7 @@ Remote play doesn't support HDR and will make your screen look washed out. This 
 
 1. Download the latest release from [here](https://github.com/michaelphagen/RemotePlayAutoHDR/releases)
 2. Extract the zip file to a folder
-3. Run RemotePlayAutoHDR.exe (or put it in your startup folder)
+3. Run RemotePlayAutoHDR.exe (or make a shortcut to it from your [startup folder](https://support.microsoft.com/en-us/windows/add-an-app-to-run-automatically-at-startup-in-windows-10-150da165-dcd9-7230-517b-cf3c295d89dd))
 4. Enjoy!
 
 ## Options
