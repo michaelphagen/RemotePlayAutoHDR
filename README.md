@@ -27,3 +27,9 @@ The app runs in the notification area and you can do 2 things with it:
 ## Dependencies
 
 RemotePlayAutoHDR uses [Ji Huang's HDRSwitch](https://github.com/cocafe/HDRSwitch) for now, which is bundled into the package and repo. I plan to re-write this in C and remove the dependency on HDRSwitch.
+
+## Donate
+
+If you find this project useful and you would like to donate toward on-going development you can use the link below. Any and all donations are much appreciated!
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/michaelphagen)
